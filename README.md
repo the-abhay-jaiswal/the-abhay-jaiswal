@@ -1,5 +1,6 @@
 <h1>Hi! I am Abhay Jaiswal</h1>
-<h2>WebDeveloper | Web Designer | MERN Enthusiast | Freelancer</h2>
+<h2>Electronics Engineer Graduate from IERT, Prayagraj</h2>
+<h2>Frontend Designer & Developer | MERN Enthusiast | Freelancer</h2>
 <a href="https://abhay-jaiswal-portfolio.netlify.app/">PORTFOLIO</a>
 
 ## 🌐 Socials:
