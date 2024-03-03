@@ -1,8 +1,7 @@
 <h1>Hi! I am Abhay Jaiswal</h1>
 <h2>Electronics Engineer Graduate from IERT, Prayagraj</h2>
 <h2>Frontend Designer & Developer | MERN Enthusiast | Freelancer</h2>
-<style> a { text-decoration:none; } </style>
-<a href="https://abhay-jaiswal-portfolio.netlify.app/">🌐 PORTFOLIO</a>
+<a href="https://abhay-jaiswal-portfolio.netlify.app/" style="text-decoration:none">🌐 PORTFOLIO</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nucleophile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-abhay-jaiswal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhay1902_) 
