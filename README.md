@@ -6,7 +6,7 @@
 ## 🔗Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nucleophile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-abhay-jaiswal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhay1902_) 
 # 👨‍💻 About Me:
-<p>Hello, I'm Abhay Jaiswal, I am from Gorakhpur Uttar Pradesh, I am currently in my final year of Electronics Engineering at the Institute of Engineering and Rural Technology, Prayagraj. My journey in electronics has been defined by a deep interest in VLSI design, digital Electronics and communication.
+<p>I'm Abhay Jaiswal, I am from Gorakhpur Uttar Pradesh, I am currently in my final year of Electronics Engineering at the Institute of Engineering and Rural Technology, Prayagraj. My journey in electronics has been defined by a deep interest in VLSI design, digital Electronics and communication.
 
 During my recent Training at NIELIT, Gorakhpur, Where I use CADENCE tools, to enhance my skills in circuit design. One of my notable projects, the Ultra-Wideband Bandpass Filter, reflects my passion for innovation, with its application-oriented design garnering recognition at international workshops.
 
